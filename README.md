@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arsalan-syed-625480199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arsalan-syed-625480199/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14320618/arsalan-syed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14320618/arsalan-syed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/khansyed231am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/khansyed231am" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arsalan-syed-625480199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arsalan-syed-625480199/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14320618/arsalan-syed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14320618/arsalan-syed" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/khansyed231am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/khansyed231am" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
